@@ -17,7 +17,7 @@ class Quote extends Component {
     });
     return (
       <div>
-        <h1 className="quote-header">Posts</h1>
+        <h1 className="quote-header">Famous Quotes</h1>
         <div className = "quote-container">
         {quoteDetails}
         </div>
